@@ -6,4 +6,8 @@ Here's our todo:
 - [x] Make our first commit
 - [ ] Fix this tpyo
 
-Add more text
+
+Add even more text
+
+
+And remove the old extra text 
